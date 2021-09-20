@@ -1,0 +1,20 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+	<title>New Project</title>
+	<defs>
+		<image  width="128" height="128" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAAXNSR0IB2cksfwAAAMlQTFRFQbf/QLb/P7b/Prb/PbX/PLX/O7X/O7T/OrT/ObT/OLP/N7P/NrP/NrL/NbL/NLL/M7H/MrH/MbH/MLD/L7D/LrD/Lq//La//LK//K67/Kq7/Ka7/KK3/J63/Jq3/Jqz/Jaz/JKz/I6v/Iqv/Iav/PrX/M7L/Iar/Ka3/IKr/H6r/Hqn/Hqr/Han/HKn/G6j/Gqj/Gaj/Gaf/GKf/F6f/Fqf/Fqb/Fab/FKb/FKX/E6X/EqX/EaX/EaT/EKT/D6T/DqP/DaP/DKP/3FZtDAAAAk1JREFUeJyllItW2kAURY9AW9BWUagPFHlpERErGBEjSOn/f1Tv3IR4J5MscqcfsPeazM4cYG+vVCpXKpUvX79Vq7Xa/v7Bwfcfh4dHR/X68clJo9FoNn+enp2dn19ctFqXl1dX7fZ1p9vt9nr9/mBwE/G32TwLMngjiHkSCL4q+F85fHyAiB/cDBHz0QF28XeffHSA4QilclnwRpDNG8Fd+gKGIyNI+Jrg64LfHsDhWeDynwGIFx+Qyd/DPyDzRqAJ2OmkeBIUDthOBWR+DH3A/jaA4UmQ8NqAxD+MJ3AC2nxOgCELiJ/A5kXA010BmZ8gM2CzSMCHMQke4fI5AdP8PfOPKPYDtK+dHyDiSaB6wTLgxAh+g/mcgC15gb10QOZjgSbgKAlgeBJkBNzxgiX/BOcFFw7IPAm8AzL/BNUEu/wUqgm2AjI/g39A5p+hesEjh3+GaoKtgMwbgWKCXT6AaoLtACQIAqgm2OVJoJng6AVL/gWqCbYDkOBlDtUEu/wcqgm2Axj+FaoJtvmA+FcUDChf8DS+QMMbgecPQDwJFlBNsBWQ+QX8AzL/Bo8XnPAkCKGaYJcP4fGCtwEMzwJFwNlM8m9h+A6/gAlPAs0EWwGZf4dqgq2AoREs4RdwwRdI/BLFJjgrIPMr+AekC1iuSPB//Af8AzJPAs0Ez2VAuoAPEhQOGKQDMr+G/gUvJL+GaoKtgCvDr1F4gt0Ahv8D/4CGJ8GugNPcgHwAEmgm2OU3UE2w/AGYJ4Fqgq2AzG/gE1DwG3i84JXg//4D6A0uFQvHcIMAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 76px;fill: #b3b3b3;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.txt1 { font-size: 24px;fill: #ffffff;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+	<text id="O " style="transform: matrix(1,0,0,1,6,55)" >
+		<tspan x="0" y="0" class="txt0">O
+</tspan>
+	</text>
+	<text id="L " style="transform: matrix(2.742,-1.583,1.583,2.742,20.661,69.53)" >
+		<tspan x="0" y="0" class="txt1">L</tspan><tspan  y="0" class="txt1">
+</tspan>
+	</text>
+</svg>

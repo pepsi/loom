@@ -1,0 +1,22 @@
+@charset "utf-8";
+@import "../node_modules/bulma/bulma.sass";
+body{
+    padding-top: 60px;
+}
+//TODO: better solution
+
+@-webkit-keyframes fadein {
+    100% {opacity:1;}
+    0% {opacity:0;}
+}
+@keyframes fadein {
+    100% {opacity:1;}
+    0% {opacity:0;}
+}
+.fadeIn {
+  opacity:0;
+  -moz-animation   : fadein 1s linear;
+  -webkit-animation: fadein 1s linear;
+  animation        : fadein 1s linear;
+  animation-fill-mode: forwards;  
+}
